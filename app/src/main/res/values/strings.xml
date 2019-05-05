@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DragDismissPlayground</string>
+    <string name="main_open_simple_elastic_drag_activity">Simple activity</string>
+    <string name="main_elastic_drag_section_title">ElasticDragDismissFrameLayout</string>
+    <string name="main_open_recycler_elastic_drag_activity">RecyclerView</string>
+    <string name="dismiss_info_message">Drag Up/Down to dismiss</string>
 </resources>
